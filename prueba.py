@@ -125,5 +125,5 @@ class ContentExtractor:
 if __name__ == "__main__":
     extractor = ContentExtractor(base_folder="descargas", max_depth=1)
     extractor.fetch_and_save(
-        "https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/airworthiness-manual-chapter-533-aircraft-engines-canadian-aviation-regulations-cars"
+        "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C"
     )
