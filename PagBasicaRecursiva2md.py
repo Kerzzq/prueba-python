@@ -37,9 +37,6 @@ class MarkdownExtractor:
             return
 
         soup = BeautifulSoup(resp.text, "html.parser")
-        html_fixed = soup.prettify()
-        soup = BeautifulSoup(html_fixed, "html.parser")
-
         # Usar todo el <main> (fallback: field-item)
         main_content = soup.find("main") or soup.find("div", class_="field-item")
         if not main_content:
@@ -67,7 +64,7 @@ class MarkdownExtractor:
 
         # Convertir a Markdown
         markdown_text = md(str(main_content), heading_style="ATX", strip=["span"])
-        markdown_text = "\n".join(line.strip() for line in markdown_text.splitlines() if line.strip())
+        #markdown_text = "\n".join(line.strip() for line in markdown_text.splitlines() if line.strip())
 
         # Carpeta base (usa hash corto de la URL final para evitar rutas largas)
         folder = self.base_folder if parent_folder is None else os.path.join(self.base_folder, parent_folder)
