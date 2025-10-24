@@ -36,7 +36,9 @@ class MarkdownExtractor:
             print(f"🔁 Ya visitada: {final_url}")
             return
 
-        soup = BeautifulSoup(resp.text, "lxml")
+        soup = BeautifulSoup(resp.text, "html.parser")
+        html_fixed = soup.prettify()
+        soup = BeautifulSoup(html_fixed, "html.parser")
 
         # Usar todo el <main> (fallback: field-item)
         main_content = soup.find("main") or soup.find("div", class_="field-item")
