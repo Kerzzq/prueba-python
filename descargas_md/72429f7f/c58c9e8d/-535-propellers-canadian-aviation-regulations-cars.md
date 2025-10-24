@@ -3,82 +3,47 @@ source: https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulat
 ---
 
 # Airworthiness Chapter 535 - Propellers - Canadian Aviation Regulations (CARs)
-See also
-CAR
-535
+See also CAR 535
 ## Table of contents
 * [Preamble](#preamble)
 * **Subchapter A - General**
-+ [535.1](#535_1)
-- Applicability
-+ [535.2](#535_2)
-- Propeller configuration (amended 2010/01/29)
-+ [535.31](#535_3)
-- Instructions for Propeller Installation and Operation (amended 2010/01/29)
-+ [535.41](#535_4)
-- Instructions for Continued Airworthiness
-+ [535.5](#535_5)
-- Propeller Ratings and Operating Limitations (amended 2010/01/29)
-+ [535.7](#535_7)
-- Features and Characteristics (amended 2010/01/29)
++ [535.1](#535_1) - Applicability
++ [535.2](#535_2) - Propeller configuration (amended 2010/01/29)
++ [535.31](#535_3) - Instructions for Propeller Installation and Operation (amended 2010/01/29)
++ [535.41](#535_4) - Instructions for Continued Airworthiness
++ [535.5](#535_5) - Propeller Ratings and Operating Limitations (amended 2010/01/29)
++ [535.7](#535_7) - Features and Characteristics (amended 2010/01/29)
 * **Subchapter B - Design and Construction**
-+ [535.11](#535_11)
-- Reserved (amended 2010/01/29)
-+ [535.13](#535_13)
-- Reserved (amended 2010/01/29)
-+ [535.15](#535_15)
-- Safety Analysis (amended 2010/01/29)
-+ [535.16](#535_16)
-- Propeller Critical Parts
-+ [535.17](#535_17)
-- Materials and Manufacturing Methods (amended 2010/01/29)
-+ [535.19](#535_19)
-- Durability
-+ [535.21](#535_21)
-- Variable and Reversible Pitch Propellers (amended 2010/01/29)
-+ [535.22](#535_22)
-- Feathering Propellers (amended 2010/01/29)
-+ [535.23](#535_23)
-- Propeller Control System (amended 2010/01/29)
-+ [535.24](#535_24)
-- Strength (amended 2010/01/29)
++ [535.11](#535_11) - Reserved (amended 2010/01/29)
++ [535.13](#535_13) - Reserved (amended 2010/01/29)
++ [535.15](#535_15) - Safety Analysis (amended 2010/01/29)
++ [535.16](#535_16) - Propeller Critical Parts
++ [535.17](#535_17) - Materials and Manufacturing Methods (amended 2010/01/29)
++ [535.19](#535_19) - Durability
++ [535.21](#535_21) - Variable and Reversible Pitch Propellers (amended 2010/01/29)
++ [535.22](#535_22) - Feathering Propellers (amended 2010/01/29)
++ [535.23](#535_23) - Propeller Control System (amended 2010/01/29)
++ [535.24](#535_24) - Strength (amended 2010/01/29)
 * **Subchapter C - Tests and Inspections**
-+ [535.31](#535_31)
-- Reserved (amended 2010/01/29)
-+ [535.33](#535_33)
-- General
-+ [535.34](#535_34)
-- Inspections, Adjustments and Repairs (amended 2010/01/29)
-+ [535.35](#535_35)
-- Centrifugal Load Tests (amended 2010/01/29)
-+ [535.36](#535_36)
-- Bird Impact (amended 2010/01/29)
-+ [535.37](#535_37)
-- Fatigue Limits and Evaluation (amended 2010/01/29)
-+ [535.38](#535_38)
-- Lightning Strike (amended 2010/01/29)
-+ [535.39](#535_39)
-- Endurance Test
-+ [535.40](#535_40)
-- Functional Test
-+ [535.41](#535_41)
-- Overspeed and Overtorque (amended 2010/01/29)
-+ [535.42](#535_42)
-- Components of the Propeller Control System (amended 2010/01/29)
-+ [535.43](#535_43)
-- Propeller Hydraulic Components (amended 2010/01/29)
-+ [535.45](#535_45)
-- Reserved (amended 2010/01/29)
-+ [535.47](#535_47)
-- Reserved (amended 2010/01/29)
-* [Appendix A](#appendix)
-- Instructions for Continued Airworthiness
++ [535.31](#535_31) - Reserved (amended 2010/01/29)
++ [535.33](#535_33) - General
++ [535.34](#535_34) - Inspections, Adjustments and Repairs (amended 2010/01/29)
++ [535.35](#535_35) - Centrifugal Load Tests (amended 2010/01/29)
++ [535.36](#535_36) - Bird Impact (amended 2010/01/29)
++ [535.37](#535_37) - Fatigue Limits and Evaluation (amended 2010/01/29)
++ [535.38](#535_38) - Lightning Strike (amended 2010/01/29)
++ [535.39](#535_39) - Endurance Test
++ [535.40](#535_40) - Functional Test
++ [535.41](#535_41) - Overspeed and Overtorque (amended 2010/01/29)
++ [535.42](#535_42) - Components of the Propeller Control System (amended 2010/01/29)
++ [535.43](#535_43) - Propeller Hydraulic Components (amended 2010/01/29)
++ [535.45](#535_45) - Reserved (amended 2010/01/29)
++ [535.47](#535_47) - Reserved (amended 2010/01/29)
+* [Appendix A](#appendix) - Instructions for Continued Airworthiness
 ## Preamble
 ### General
 The content of this chapter is based on the United States Code of Federal Regulations, Title 14, Chapter I, Part 35 entitled Airworthiness Standards, Propellers. These United States airworthiness standards have been used and adapted as the model for the Canadian standards supplemented by additional airworthiness requirements based on Canadian experience and required for Canadian aviation purposes.
-The FAR numbering system is used. The Canadian standards bears the same number as the FAR equivalent, prefixed by the number “5”, as this chapter contains the standards for Part V of the
-Canadian Aviation Regulations
-(CARs).
+The FAR numbering system is used. The Canadian standards bears the same number as the FAR equivalent, prefixed by the number “5”, as this chapter contains the standards for Part V of the Canadian Aviation Regulations (CARs).
 **First Edition
 Effective: January 1, 1986**
 The first edition of this chapter is based on FAR Part 35, up to and including amendment 35-5 published in the Federal Register dated September 11, 1980. Except for administrative changes (e.g., Administrator = Minister; Part = Chapter) and the deletion of references to operating FARs, there are no Canadian variations included in this first edition.
@@ -86,16 +51,9 @@ The standards in this chapter are presented in a two column format with the Unit
 **Change 535-1
 Effective: August 1, 1991**
 This change incorporates Amendment 35-6 to the United States Code of Federal Regulations, Title 14, Chapter I, Part 35 published in the Federal Register dated August 18, 1989. This amendment changes a cross reference to Part 91 in Appendix A of Part 35 and as such it is not applicable in Canada. This FAR change is part of a larger reorganization of the general U.S. operating and flight rules to make them more understandable and easier to use.
-In addition, section
-[535.1](#535_1)
-has been rewritten to refer to the Air Regulation enabling the type certificate of aeronautical products.
-**Information Notes**
-:
-* 1. The Enabling authority has been replaced by the reference to the
-Canadian Aviation Regulations
-in section
-[535.1](#535_1)
-.
+In addition, section [535.1](#535_1) has been rewritten to refer to the Air Regulation enabling the type certificate of aeronautical products.
+**Information Notes**:
+* 1. The Enabling authority has been replaced by the reference to the Canadian Aviation Regulations in section [535.1](#535_1).
 * 2. Changes are identified by [ ] brackets. Editorial changes are not identified.
 **Second Edition
 Change 535-2**
@@ -114,9 +72,7 @@ The content of this chapter has in no way been changed and future changes will c
 This amendment entitled “Applicability” provides a correction to section 1 of the French version. Whereas Airworthiness Manual Chapter 535 sets out the airworthiness standards for propellers, the French version makes an erroneous reference to ballons libres habités (manned free balloons), which is now corrected to read hélices (propellers).
 **Change 535-4**
 **Published: 1 December 2009**
-On December 1, 2009, Part V Subpart 21 of the
-Canadian Aviation Regulations
-(CAR 521) came into force. CAR 521 replaces the following Regulations in Part V—Airworthiness:
+On December 1, 2009, Part V Subpart 21 of the Canadian Aviation Regulations (CAR 521) came into force. CAR 521 replaces the following Regulations in Part V—Airworthiness:
 Subpart 11 - Approval of the Type Design of an Aeronautical Product
 Subpart 13 - Approval of Modification and Repair Designs
 Subpart 16 - Aircraft Emissions
@@ -192,9 +148,7 @@ This amendment replaces references to 523.907, which has been removed, with refe
 (Change 535-1 (91-08-01))
 ### 535.2 Propeller configuration
 (amended 2010/01/29)
-The applicant must provide a list of all the components, including references to the relevant drawings and software design data that define the type design of the propeller to be approved under Part V of the
-Canadian Aviation Regulations
-relating to Approval of the Type Design of an Aeronautical Product.
+The applicant must provide a list of all the components, including references to the relevant drawings and software design data that define the type design of the propeller to be approved under Part V of the Canadian Aviation Regulations relating to Approval of the Type Design of an Aeronautical Product.
 (amended 2010/01/29)
 ### 535.3 Instructions for Propeller Installation and Operation
 (amended 2010/01/29)
@@ -217,18 +171,14 @@ The applicant must provide instructions that are approved by the Minister. Those
 * (b) Instructions for operating the propeller which must specify all procedures necessary for operating the propeller within the limitations of the propeller type design.
 * (amended 2010/01/29)
 ### 535.4 Instructions for Continued Airworthiness
-The applicant must prepare Instructions for Continued Airworthiness in accordance with
-[**Appendix A**](#appendix)
-to this Chapter that are acceptable to the Minister. The instructions may be incomplete at type certification if a program exists to ensure their completion prior to delivery of the first aircraft with the propeller installed, or upon issuance of a standard certificate of airworthiness for an aircraft with the propeller installed, whichever occurs later.
+The applicant must prepare Instructions for Continued Airworthiness in accordance with [**Appendix A**](#appendix) to this Chapter that are acceptable to the Minister. The instructions may be incomplete at type certification if a program exists to ensure their completion prior to delivery of the first aircraft with the propeller installed, or upon issuance of a standard certificate of airworthiness for an aircraft with the propeller installed, whichever occurs later.
 ### 535.5 Propeller Ratings and Operating Limitations
 (amended 2010/01/29)
 * (a) Propeller ratings and operating limitations must:
 (amended 2010/01/29)
 + (1) Be established by the applicant and approved by the Minister,
 (amended 2010/01/29)
-+ (2) Be included directly or by reference in the propeller type certificate data sheet, as specified in Part V of the
-Canadian Aviation Regulations
-relating to Approval of the Type Design of an Aeronautical Product,
++ (2) Be included directly or by reference in the propeller type certificate data sheet, as specified in Part V of the Canadian Aviation Regulations relating to Approval of the Type Design of an Aeronautical Product,
 (amended 2010/01/29)
 + (3) Be based on the operating conditions demonstrated during the tests required by this Chapter as well as any other information the Minister requires as necessary for the safe operation of the propeller.
 (amended 2010/01/29)
@@ -378,9 +328,7 @@ The maximum stresses developed in the propeller may not exceed values acceptable
 (amended 2010/01/29)
 This subchapter prescribes the tests and inspections for propellers and their essential accessories.
 ### 535.33 General
-* (a) Each applicant shall furnish test article(s) and suitable testing facilities, including equipment, and competent personnel, and conduct the required tests in accordance with Part V of the
-Canadian Aviation Regulations
-relating to Approval of the Type Design of an Aeronautical Product.
+* (a) Each applicant shall furnish test article(s) and suitable testing facilities, including equipment, and competent personnel, and conduct the required tests in accordance with Part V of the Canadian Aviation Regulations relating to Approval of the Type Design of an Aeronautical Product.
 (amended 2010/01/29)
 * (b) All automatic controls and safety systems must be in operation unless it is accepted by the Minister as impossible or not required because of the nature of the test. If needed for substantiation, the applicant may test a different propeller configuration if this does not constitute a less severe test.
 (amended 2010/01/29)
@@ -473,9 +421,7 @@ Endurance tests on the propeller system must be made on a representative engine 
 (amended 2010/01/29)
 * (C) Thirty minutes at idle.
 (amended 2010/01/29)
-+ (2) Operation of the propeller throughout the engine endurance tests prescribed in
-[Chapter 533](/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/airworthiness-manual-chapter-533-aircraft-engines/part-v-airworthiness-manual-chapter-533-aircraft-engines-canadian-aviation-regulations-cars "Part V - Airworthiness Manual Chapter 533 - Aircraft Engines - Canadian Aviation Regulations (CARs)")
-of this Manual.
++ (2) Operation of the propeller throughout the engine endurance tests prescribed in [Chapter 533](/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/airworthiness-manual-chapter-533-aircraft-engines/part-v-airworthiness-manual-chapter-533-aircraft-engines-canadian-aviation-regulations-cars "Part V - Airworthiness Manual Chapter 533 - Aircraft Engines - Canadian Aviation Regulations (CARs)") of this Manual.
 * (c) An analysis based on tests of propellers of similar design may be used in place of the tests of paragraphs (a) and (b) of this section.
 (amended 2010/01/29)
 ### 535.40 Functional Test
@@ -523,9 +469,7 @@ Applicants must show by test, validated analysis or both that propeller componen
 ## Appendix A - Instructions for Continued Airworthiness
 **Content last revised: 1999/12/01**
 ### A535.1 General
-* (a) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by
-[535.4](#535_4)
-.
+* (a) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by [535.4](#535_4).
 * (b) The Instructions for Continued Airworthiness for each propeller must include the Instructions for Continued Airworthiness for all propeller parts. If Instructions for Continued Airworthiness are not supplied by the propeller part manufacturer for a propeller part, the Instructions for Continued Airworthiness for the propeller must include the information essential to the continued airworthiness of the propeller.
 * (c) The applicant must submit to the Minister a program to show how changes to the Instructions for Continued Airworthiness made by the applicant or by the manufacturers of propeller parts will be distributed.
 ### A535.2 Format
